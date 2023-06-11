@@ -34,7 +34,7 @@ The app offers a user-friendly interface with intuitive navigation, making it ea
   <img src="Screenshot_20230611-165405_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  </p>
 
-### Technolgies : Android , Kotlin , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
+### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
 
 
 # Dictionary App
@@ -45,7 +45,7 @@ Overall, this Android dictionary app leverages an online API to provide accurate
 <img src="dicApp.gif" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 
-### Technolgies : Android , Kotlin , MVVM , JetPack Compose , retrofit , flows , dagger hilt , dictionaryapi.
+### Technolgies : Android , Kotlin ,Coroutines , MVVM , JetPack Compose , retrofit , flows , dagger hilt , dictionaryapi.
 
 
 
