@@ -21,3 +21,20 @@ Are you an influencer? Would you like to share your style, favorites and desires
 
 <a href='https://play.google.com/store/apps/details?id=com.firas.shopmyinfluens&hl=fr&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
+# SmartShop App
+
+SmartShop is an Android app designed to provide a seamless and convenient shopping experience to users. It combines the power of e-commerce and the flexibility of mobile technology, allowing users to browse, search, and purchase products directly from their Android devices.
+The app offers a user-friendly interface with intuitive navigation, making it easy for users to explore different product categories and find what they need.
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/HE2W53Ed3Ndr78S-412o-xTgxHIOTMWCikcFbsfP-aoydq8rV1sRuqnoCqWRKZuHChnv=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://play-lh.googleusercontent.com/-yMsM03Il5xweX6-mJqycPAKfKW4PRJxr_3BfkTgn3hGOAk1T4q2XK9G8eK934uzHFE=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://play-lh.googleusercontent.com/c--7jnDGTha-QLKHl8tyuP4vmaUXXWTy4MJW-l5RGH7cDkN2EiM8m9S5h6N0eIDSmg=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://play-lh.googleusercontent.com/4-Qsytl1VXaj1auwthovocFUydRRYwFnnF9-JYI0xaVgn-wHcbX8z-s2syrhU4dsiA=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://play-lh.googleusercontent.com/UewUBRKsBHloMDSgl30kKBIAwD8HgiKTyR15AvBbmHbSOAzhb-w9Q5ZrtOhEGrgTnIgU=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://play-lh.googleusercontent.com/cO5EFiqQCpT8WsMbo1tvUZRGAXYF3hhC102aj-rRT-Ggmom3eWqocqqCBpOVBCARpqGN=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### Technolgies : Android , java , Xml, Firebase, mvc , retrofit , room.
+
+
