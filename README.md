@@ -21,6 +21,18 @@ Are you an influencer? Would you like to share your style, favorites and desires
 
 <a href='https://play.google.com/store/apps/details?id=com.firas.shopmyinfluens&hl=fr&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
+# Run 
+
+ RUN  est conçue pour vous aider à suivre vos séances de course à pied de manière efficace et motivante. En utilisant l'intégration de Google Maps, l'application vous permet de tracer votre itinéraire en temps réel pendant votre course. Vous pouvez ainsi visualiser votre parcours sur la carte, ce qui vous permet de rester sur la bonne voie et d'explorer de nouveaux endroits passionnants.
+
+<p align="center">
+<img src="Screenshot_20230611-165325_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Screenshot_20230611-165342_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Screenshot_20230611-165354_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot_20230611-165405_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </p>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM  , flows , dagger hilt , livedata .
 
 # SmartShop App
 
