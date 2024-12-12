@@ -69,7 +69,7 @@ Graphics Layer: Applies transformations like position adjustments and rotations 
 <p align="center">
 <img src="mosquito.gif" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
-### Technolgies : Android , Kotlin , Coroutines .
+### Technolgies : Android , Kotlin , Coroutines
 
 # Run 
 
