@@ -21,17 +21,6 @@ Are you an influencer? Would you like to share your style, favorites and desires
 
 <a href='https://play.google.com/store/apps/details?id=com.firas.shopmyinfluens&hl=fr&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-# Run 
-
- RUN  est conçue pour vous aider à suivre vos séances de course à pied de manière efficace et motivante. En utilisant l'intégration de Google Maps, l'application vous permet de tracer votre itinéraire en temps réel pendant votre course. Vous pouvez ainsi visualiser votre parcours sur la carte, ce qui vous permet de rester sur la bonne voie et d'explorer de nouveaux endroits passionnants.
-
-<p align="center">
-<img src="run1.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="run2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="run3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- </p>
-
-### Technolgies : Android , Kotlin , Coroutines , MVVM  , flows , dagger hilt , livedata .
 
 # SmartShop App
 
@@ -46,6 +35,33 @@ The app offers a user-friendly interface with intuitive navigation, making it ea
  </p>
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
+
+# Mosquito  
+
+ The Mosquito Animation App is a playful interactive application built using Jetpack Compose. It showcases advanced Compose features, including:
+
+Animations: Smoothly animates the mosquito's movement across the screen using Animatable and tween for seamless transitions.
+Gesture Detection: Implements tap gesture detection with pointerInput and detectTapGestures to interact with the mosquito.
+Coroutines: Utilizes Kotlin Coroutines to handle animations and sound effects asynchronously, ensuring a responsive user experience.
+Sound Effects: Integrates SoundPool to play dynamic sound effects in sync with the mosquito's movement.
+Graphics Layer: Applies transformations like position adjustments and rotations to the mosquito image using graphicsLayer.
+
+<p align="center">
+<img src="mosquito.gif" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
+### Technolgies : Android , Kotlin , Coroutines .
+
+# Run 
+
+ RUN  est conçue pour vous aider à suivre vos séances de course à pied de manière efficace et motivante. En utilisant l'intégration de Google Maps, l'application vous permet de tracer votre itinéraire en temps réel pendant votre course. Vous pouvez ainsi visualiser votre parcours sur la carte, ce qui vous permet de rester sur la bonne voie et d'explorer de nouveaux endroits passionnants.
+
+<p align="center">
+<img src="run1.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="run2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="run3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </p>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM  , flows , dagger hilt , livedata .
 
 
 # Dictionary App
