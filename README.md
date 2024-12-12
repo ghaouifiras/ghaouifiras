@@ -50,8 +50,8 @@ Dagger Hilt for dependency injection.
 
 
 <p align="center">
-<img src="moviesMainScreen.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="movieDetail.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="moviesMainScreen.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="movieDetail.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , pager3.
