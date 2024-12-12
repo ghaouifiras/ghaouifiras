@@ -36,6 +36,26 @@ The app offers a user-friendly interface with intuitive navigation, making it ea
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
 
+# TopMovies
+
+The TopMovies App is an Android application that leverages the DBMovies API to display a list of movies with detailed information upon selection. It is built with modern Android development practices, including:
+
+Jetpack Compose for the UI.
+MVVM Architecture to ensure clean separation of concerns.
+Clean Architecture for scalable and maintainable code.
+Retrofit for network calls.
+Flow and Coroutines for reactive and asynchronous data handling.
+Paging 3 for efficient and seamless movie list pagination.
+Dagger Hilt for dependency injection.
+
+
+<p align="center">
+<img src="moviesMainScreen.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="movieDetail.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , pager3.
+
 # Mosquito  
 
  The Mosquito Animation App is a playful interactive application built using Jetpack Compose. It showcases advanced Compose features, including:
