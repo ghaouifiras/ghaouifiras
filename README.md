@@ -33,6 +33,9 @@ The app offers a user-friendly interface with intuitive navigation, making it ea
     <img src="Screenshot_20230611-165354_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="Screenshot_20230611-165405_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  </p>
+<a href="https://github.com/yourusername/yourproject" target="_blank">
+  <button>View Source Code</button>
+</a>
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
 
@@ -69,6 +72,10 @@ Graphics Layer: Applies transformations like position adjustments and rotations 
 <p align="center">
 <img src="mosquito.gif" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
+ <a href="https://github.com/ghaouifiras/mosquitoFun" target="_blank">
+  <button>View Source Code</button>
+</a>
+
 ### Technolgies : Android , Kotlin , Coroutines
 
 # Run 
@@ -80,6 +87,10 @@ Graphics Layer: Applies transformations like position adjustments and rotations 
     <img src="run2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="run3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  </p>
+ <a href="https://github.com/yourusername/yourproject" target="_blank">
+  <button>View Source Code</button>
+</a>
+
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM  , flows , dagger hilt , livedata .
 
@@ -91,6 +102,10 @@ Overall, this Android dictionary app leverages an online API to provide accurate
 <p align="center">
 <img src="dicApp.gif" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
+ <a href="https://github.com/yourusername/yourproject" target="_blank">
+  <button>View Source Code</button>
+</a>
+
 
 ### Technolgies : Android , Kotlin ,Coroutines , MVVM , JetPack Compose , retrofit , flows , dagger hilt , dictionaryapi.
 
