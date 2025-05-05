@@ -41,6 +41,7 @@ Perfect for retail displays, museums, or corporate signage systems needing offli
   <img src="ad2.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="ads3.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="ads4.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="adminPanel.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  </p>
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , room , NanoHTTPD ZXing(QR) .
