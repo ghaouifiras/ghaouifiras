@@ -24,14 +24,16 @@ Are you an influencer? Would you like to share your style, favorites and desires
 # SmartAds
 
 A dynamic Android TV/display app that showcases media (images/videos) in a loop, controlled via a local web admin panel. Key features:
-
 Media Management: Upload, delete, and organize content through a browser-based admin panel
-
 Secure Local Server: Built-in NanoHTTPD server for device communication (no cloud needed)
-
 Database Sync: Room database tracks media paths and playback settings
-
 QR Code Access: Scan-to-configure for easy admin panel access
+
+Cloud Mode:
+REST API integration for remote media management
+Periodic sync with central server (images/videos/metadata)
+Hybrid operation (API-first with local fallback)
+
 Perfect for retail displays, museums, or corporate signage systems needing offline-capable media control.
 
 <p align="center">
