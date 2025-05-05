@@ -36,13 +36,19 @@ Hybrid operation (API-first with local fallback)
 
 Perfect for retail displays, museums, or corporate signage systems needing offline-capable media control.
 
-<p align="center">
-<img src="ad1.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ad2.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="ads3.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="ads4.png" width="500" height = "250"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="adminPanel.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; gap: 20px;">
+    <img src="ad1.png" width="500" height="250" title="Storyfy Application">
+    <img src="ad2.png" width="500" height="250" title="Storyfy Application">
+  </div>
+  <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <img src="ads3.png" width="500" height="250" title="Storyfy Application">
+    <img src="ads4.png" width="500" height="250" title="Storyfy Application">
+  </div>
+  <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <img src="adminPanel.jpg" width="250" height="500" title="Storyfy Admin Panel">
+  </div>
+</div>
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , room , NanoHTTPD ZXing(QR) .
 
