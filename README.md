@@ -21,6 +21,29 @@ Are you an influencer? Would you like to share your style, favorites and desires
 
 <a href='https://play.google.com/store/apps/details?id=com.firas.shopmyinfluens&hl=fr&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
+# SmartAds
+
+A dynamic Android TV/display app that showcases media (images/videos) in a loop, controlled via a local web admin panel. Key features:
+
+Media Management: Upload, delete, and organize content through a browser-based admin panel
+
+Secure Local Server: Built-in NanoHTTPD server for device communication (no cloud needed)
+
+Database Sync: Room database tracks media paths and playback settings
+
+QR Code Access: Scan-to-configure for easy admin panel access
+Perfect for retail displays, museums, or corporate signage systems needing offline-capable media control.
+
+<p align="center">
+<img src="ad1.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ad2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="ads3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="ads4.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </p>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , room , NanoHTTPD ZXing(QR) .
+
+
 
 # SmartShop App
 
