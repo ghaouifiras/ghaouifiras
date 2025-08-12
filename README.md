@@ -94,16 +94,13 @@ Perfect for readers, collectors, and anyone who wants to keep their book catalog
 
 <p align="center">
 <img src="Screenshot from Screen_recording_20250713_105153.webm.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Screenshot from Screen_recording_20250713_105153.webm-1.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="Screenshot from Screen_recording_20250713_105153.webm-2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="Screenshot from Screen_recording_20250713_105153.webm-3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img src="Screenshot from Screen_recording_20250713_105153.webm-4.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="Screenshot from Screen_recording_20250713_105153.webm-5.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot from Screen_recording_20250713_105153.webm - 1.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Screenshot from Screen_recording_20250713_105153.webm - 2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot from Screen_recording_20250713_105153.webm - 3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="Screenshot from Screen_recording_20250713_105153.webm - 4.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot from Screen_recording_20250713_105153.webm - 5.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
  </p>
-<a href="https://github.com/ghaouifiras/smartShop" target="_blank">
-  <button>View Source Code</button>
-</a>
 
 ### Technolgies : flutter , dart  , MVVM + Clean Architecture , google ocr , chatgpt api.
 
