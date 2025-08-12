@@ -71,6 +71,43 @@ The app offers a user-friendly interface with intuitive navigation, making it ea
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
 
+# SmartShop App
+
+📚 Book Spine Scanner — Your personal library assistant in your pocket!
+
+Easily log in, scan a book’s spine, and let Google OCR work its magic to detect the title.
+Then, ChatGPT instantly enriches the result with detailed book information, neatly packaged as a JSON file.
+
+✨ Key Features
+
+🔍 Smart Scanning – Capture book titles from spines in seconds.
+
+🤖 AI-Powered Insights – ChatGPT delivers book details instantly.
+
+📂 Flexible Export – Save your data as Excel or PDF.
+
+🕒 Scan History – Access and manage all your past scans anytime.
+
+Perfect for readers, collectors, and anyone who wants to keep their book catalog organized effortlessly.
+
+
+
+<p align="center">
+<img src="Screenshot from Screen_recording_20250713_105153.webm.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Screenshot from Screen_recording_20250713_105153.webm-1.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Screenshot from Screen_recording_20250713_105153.webm-2.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot from Screen_recording_20250713_105153.webm-3.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="Screenshot from Screen_recording_20250713_105153.webm-4.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot from Screen_recording_20250713_105153.webm-5.png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+ </p>
+<a href="https://github.com/ghaouifiras/smartShop" target="_blank">
+  <button>View Source Code</button>
+</a>
+
+### Technolgies : flutter , dart  , MVVM + Clean Architecture , google ocr , chatgpt api.
+
+
 # TopMovies
 
 The TopMovies App is an Android application that leverages the DBMovies API to display a list of movies with detailed information upon selection. It is built with modern Android development practices, including:
