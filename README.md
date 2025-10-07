@@ -52,6 +52,24 @@ Perfect for retail displays, museums, or corporate signage systems needing offli
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , room , NanoHTTPD ZXing(QR) .
 
+# Billun App
+
+The Android app is designed to simplify equipment management and reporting. Users can quickly identify equipment, capture photos, and report any anomalies directly from their device. It streamlines the process of monitoring and documenting issues, making it easier for teams to keep track of equipment status and ensure timely maintenance. The app is user-friendly, efficient, and fully integrated with the system to keep all records up to date.
+
+<p align="center">
+<img src="1(2).png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="2(1).png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="3(1).png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="4(1).png" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </p>
+<a href="https://github.com/ghaouifiras/smartShop" target="_blank">
+  <button>View Source Code</button>
+</a>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
+
+# Book Spine Scanner
+
 
 
 # SmartShop App
