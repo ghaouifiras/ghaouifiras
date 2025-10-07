@@ -71,7 +71,7 @@ The app offers a user-friendly interface with intuitive navigation, making it ea
 
 ### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
 
-# SmartShop App
+# Book Spine Scanner
 
 📚 Book Spine Scanner — Your personal library assistant in your pocket!
 
