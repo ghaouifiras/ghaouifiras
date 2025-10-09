@@ -68,27 +68,6 @@ The Android app is designed to simplify equipment management and reporting. User
 
 # Book Spine Scanner
 
-
-
-# SmartShop App
-
-SmartShop is an Android app designed to provide a seamless and convenient shopping experience to users. It combines the power of e-commerce and the flexibility of mobile technology, allowing users to browse, search, and purchase products directly from their Android devices.
-The app offers a user-friendly interface with intuitive navigation, making it easy for users to explore different product categories and find what they need.
-
-<p align="center">
-<img src="Screenshot_20230611-165325_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Screenshot_20230611-165342_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="Screenshot_20230611-165354_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="Screenshot_20230611-165405_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- </p>
-<a href="https://github.com/ghaouifiras/smartShop" target="_blank">
-  <button>View Source Code</button>
-</a>
-
-### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
-
-# Book Spine Scanner
-
 📚 Book Spine Scanner — Your personal library assistant in your pocket!
 
 Easily log in, scan a book’s spine, and let Google OCR work its magic to detect the title.
@@ -119,6 +98,25 @@ Perfect for readers, collectors, and anyone who wants to keep their book catalog
  </p>
 
 ### Technolgies : flutter , dart  , MVVM + Clean Architecture , google ocr , chatgpt api.
+
+
+# SmartShop App
+
+SmartShop is an Android app designed to provide a seamless and convenient shopping experience to users. It combines the power of e-commerce and the flexibility of mobile technology, allowing users to browse, search, and purchase products directly from their Android devices.
+The app offers a user-friendly interface with intuitive navigation, making it easy for users to explore different product categories and find what they need.
+
+<p align="center">
+<img src="Screenshot_20230611-165325_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Screenshot_20230611-165342_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Screenshot_20230611-165354_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot_20230611-165405_SMART SHOP.jpg" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </p>
+<a href="https://github.com/ghaouifiras/smartShop" target="_blank">
+  <button>View Source Code</button>
+</a>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt , FakeStoreApi.
+
 
 
 # TopMovies
