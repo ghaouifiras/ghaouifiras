@@ -21,6 +21,60 @@ Are you an influencer? Would you like to share your style, favorites and desires
 
 <a href='https://play.google.com/store/apps/details?id=com.firas.shopmyinfluens&hl=fr&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
+# SpeedCall – Transport Request Management Application
+
+SpeedCall is an application designed to manage transport requests from healthcare establishments.
+
+With its automatic request reception system, it improves workflow efficiency, increases speed, and reduces the risk of errors during information transmission.
+
+The solution provides:
+
+Traceability
+
+Visibility
+
+Operational optimization
+
+SpeedCall is part of the Sanilea ecosystem, a company focused on simplifying processes for healthcare professionals.
+
+My Contribution
+
+Although I did not develop the application from scratch, I contributed significantly by adding and improving key features:
+
+🚐 Shared Transportation Feature
+Implemented a module allowing shared transport management to optimize vehicle usage and coordination.
+
+🔔 Notification System Integration
+Integrated Firebase Cloud Messaging (FCM) to enable real-time push notifications.
+
+📋 Proposal Module Development
+Developed a proposal module to enhance request handling and operational flexibility.
+
+In addition to these major features, I also:
+
+Fixed various bugs
+
+Handled multiple improvement tickets
+
+Performed maintenance updates
+
+Managed Play Store updates and releases
+
+Contributed to overall system stability and performance improvements
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/Grph42BDsURkLE-dt2GZsiliBcC9YAxwlG3AoCaio-HWg5bytTc2dM87k3wTHeY3lquI=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://play-lh.googleusercontent.com/pst_eM9oEF8-jFM4v41ubmKP2JiQXmVCRwHiOMTYLd3MD2LDs6YnawCpMtCI2_tTX6EZ=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://play-lh.googleusercontent.com/-p8yAx-8mefy4LC6j9pat6TVYBVIfMaklijuR5nXwkIQvdqKXhKvCq1j1y6v4ue_XRU=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://play-lh.googleusercontent.com/842hTXM9jAbeZKpvNQrqdHS3-KtPVeqUdDVtjm8rAwwWg8ZNwCnuHXObpKUZkM4g-lFF=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://play-lh.googleusercontent.com/7N5Xdf7lCdOMrG2NelOSAA7h3esh59TknyrVJzxvUbvtOohaUOY236Q1KyY60g6AyQ=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
+
+### Technolgies : Android , Kotlin , Coroutines , MVVM + Clean Architecture , retrofit , flows , dagger hilt.
+
+<a href='https://play.google.com/store/apps/details?id=com.sanilea.speedcallmobile.pushnotifications&pcampaignid=web_share'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
 # SmartAds
 
 A dynamic Android TV/display app that showcases media (images/videos) in a loop, controlled via a local web admin panel. Key features:
